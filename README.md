@@ -1,7 +1,7 @@
 <h1 align="center"> 🏏 IPL Data Analytics using SQL </h1>
 
-🎯 **Project Title**: SQL Project – IPL Data Analysis
-🗂️ **Datasets Used**: ipl_matches.csv
+🎯 **Project Title**: SQL Project – IPL Data Analysis              
+🗂️ **Datasets Used**: ipl_matches.csv            
 🎓 **Focus**: Data extraction, aggregation, and business insights through SQL
 
 ---
